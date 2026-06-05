@@ -10,7 +10,7 @@ export const personalInfo = {
 };
 
 export const aboutMe = {
-  image: "public/yo.jpg",
+  image: "/public/yo.jpg",
   paragraphs: [
     "Hola, soy Felipe Piña, técnico superior en Desarrollo de Software con una mentalidad orientada a la resolución práctica de problemas y la entrega de valor constante. Mi enfoque se centra en construir arquitecturas Back-End sólidas utilizando Node.js, Python y SQL, sin perder de vista la agilidad que requiere el mercado actual",
     "Creo en el desarrollo incremental: priorizo el lanzamiento de MVPs funcionales y eficientes que permitan evolucionar a través de actualizaciones y mejoras continuas. Me destaco por mi capacidad de adaptación, utilizando herramientas de vanguardia e IA para optimizar tiempos de depuración y asegurar la calidad del código.",

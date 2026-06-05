@@ -83,7 +83,7 @@ export const projects = [
     id: 2,
     title: "Portal Deportivo",
     description: "Este portal deportivo analiza la Copa América 2024 con estadísticas detalladas y almacena la información del torneo para fácil acceso.",
-    image: "/public/copa.png",
+    image: "/copa.png",
     tags: ["Python", "Flask", "HTML", "CSS", "JavaScript", "SQL"],
     demoUrl: "#",
     githubUrl: "https://github.com/Frankk-Castle/CopaAmerica.git"
@@ -92,7 +92,7 @@ export const projects = [
     id: 3,
     title: "Caso Dengue",
     description: "Esta aplicación gestiona casos de dengue en San Carlos, clasificándolos por tipo (A, B o C) y almacenando la información de forma eficiente. Permite un seguimiento fácil y seguro de los casos para apoyar la toma de decisiones.",
-    image: "/public/dengue.png",
+    image: "/dengue.png",
     tags: ["Python", "Flask", "HTML", "CSS", "JavaScript", "SQL"],
     demoUrl: "#",
     githubUrl: "https://github.com/Gaston-comisso/Casos-Dengue.git"
@@ -101,7 +101,7 @@ export const projects = [
     id: 4,
     title: "Gestion De Bodegas",
     description: "Esta aplicación permite gestionar la información de vuelos, reservas y pasajeros, con una interfaz intuitiva y funcionalidades avanzadas de búsqueda y filtrado.",
-    image:  "/public/bodega.jpg",
+    image:  "/bodega.jpg",
     tags: ["Node.js", "Express", "MongoDB", "JWT"],
     demoUrl: "https://gestiondebodegas.netlify.app/",
     githubUrl: "https://github.com/Gaston-comisso/Gestion-de-bodega-Con-IA.git"
@@ -110,7 +110,7 @@ export const projects = [
     id: 5,
     title: "Taller Mecanico",
     description: "Este proyecto es una API construida con Flask que permite gestionar la información de clientes, vehículos y reparaciones, diseñada para ser usada como backend para una aplicación web o móvil. La API se conecta a una base de datos MySQL y ofrece endpoints para realizar operaciones CRUD.",
-    image:  "/public/taller.png",
+    image:  "/taller.png",
     tags: ["Python", "MySQL", "React", "TypeScript"],
     demoUrl: "#",
     githubUrl: "https://github.com/Gaston-comisso/taller-mecanico-API.git"
@@ -119,7 +119,7 @@ export const projects = [
     id: 6,
     title: "E-commerce de Productos de Computación",
     description: "Esta app distribuida en microoservicios que permite registrar clientes, productos y ventas, controlando stock y aplicando descuentos automáticamente.",
-    image: "/public/ecomerce.png",
+    image: "/ecomerce.png",
     tags: ["Node.js", "Express", "MySQL", "React", "JavaScript"],
     demoUrl: "https://techmarkert.netlify.app/login",
     githubUrl: "https://github.com/FelipePinaGit/E-commers.git"
@@ -128,7 +128,7 @@ export const projects = [
     id: 7,
     title: "Gestion de Vuelos Skytract",
     description: "Esta aplicación permite gestionar la información de vuelos, reservas y pasajeros, con una interfaz intuitiva y funcionalidades avanzadas de búsqueda y filtrado.",
-    image: "/public/skytract.png",
+    image: "/skytract.png",
     tags: ["Node.js", "Express", "MongoDB", "JWT"],
     demoUrl: "https://gestiondevueloskytract.netlify.app/",
     githubUrl: "#"
@@ -137,7 +137,7 @@ export const projects = [
     id: 8,
     title: "RoomMate AI",
     description: "Esta aplicación permite gestionar la información de vuelos, reservas y pasajeros, con una interfaz intuitiva y funcionalidades avanzadas de búsqueda y filtrado.",
-    image: "/public/rommateai.png",
+    image: "/rommateai.png",
     tags: ["Node.js", "Express", "MongoDB", "JWT"],
     demoUrl: "https://roommateai.netlify.app/",
     githubUrl: "#"

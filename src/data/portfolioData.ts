@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Pizzeria Argento",
     description: "Pizza Argento es una plataforma de delivery con un menú interactivo y pedidos rápidos. Permite a los administradores gestionar el catálogo y los pedidos en tiempo real.",
-    image: "/public/pizza.png",
+    image: "/pizza.png",
     tags: ["Python", "Flask", "HTML", "CSS", "JavaScript", "SQL"],
     demoUrl: "#",
     githubUrl: "https://github.com/Gaston-comisso/PizzeriaArgento.git"

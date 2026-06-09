@@ -7,7 +7,7 @@ export const personalInfo = {
   linkedin: "https://www.linkedin.com/in/felipe-omar-pi%C3%B1a-conesa-508b382b5/",
   github: "https://github.com/FelipePinaGit",
   cvUrl: "public/Curriculum Vitae Felipe Piña.pdf"
-};
+};s
 
 export const aboutMe = {
   image: "/yo.jpg",

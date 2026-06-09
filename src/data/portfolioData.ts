@@ -5,7 +5,7 @@ export const personalInfo = {
   description: "Desarrollador enfocado en código limpio, resolución de problemas y aprendizaje continuo. Apasionado por crear experiencias digitales que combinan diseño excepcional con arquitectura técnica sólida.",
   email: "felipeomarpinaconesa@gmail.com",
   linkedin: "https://www.linkedin.com/in/felipe-omar-pi%C3%B1a-conesa-508b382b5/",
-  github: "https://github.com/FelipePinaGit",
+  github: "https://github.com/FelipeOPC-hub",
   cvUrl: "Curriculum Vitae Felipe Piña.pdf"
 };
 

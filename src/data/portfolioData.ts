@@ -127,7 +127,7 @@ export const projects = [
   {
     id: 7,
     title: "Gestion de Vuelos Skytract",
-    description: "Esta aplicación permite gestionar la información de vuelos, reservas y pasajeros, con una interfaz intuitiva y funcionalidades avanzadas de búsqueda y filtrado.",
+    description: "RoomMate AI es una plataforma de asistencia virtual con inteligencia artificial orientada a hoteles medianos y grandes. Permite a los huéspedes interactuar en su idioma nativo, gestionar su check-in virtual, consultar eventos, solicitar servicios y acceder a ayuda de emergencia desde una sola interfaz. Incorpora un motor TTS para usuarios con dificultades visuales y un panel admin para gestión de reservas en tiempo real. Construido a lo largo de un año académico con metodología ágil SCRUM en 6 sprints incrementales.",
     image: "/skytract.png",
     tags: ["Node.js", "Express", "MongoDB", "JWT"],
     demoUrl: "https://gestiondevueloskytract.netlify.app/",

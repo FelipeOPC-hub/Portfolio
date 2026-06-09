@@ -100,7 +100,7 @@ export const projects = [
   {
     id: 4,
     title: "Gestion De Bodegas",
-    description: "Esta aplicación permite gestionar la información de vuelos, reservas y pasajeros, con una interfaz intuitiva y funcionalidades avanzadas de búsqueda y filtrado.",
+    description: "Sistema web dirigido a la industria vitivinícola que combina gestión de datos enológicos con un motor de predicción basado en IA. Los usuarios ingresan variables como fecha, nivel de acidez (%) y concentración de azúcar (g/L), y el sistema genera predicciones inteligentes sobre la cosecha. Diseño dark mode profesional con foco en UX para usuarios del sector.",
     image:  "/bodega.jpg",
     tags: ["Node.js", "Express", "MongoDB", "JWT"],
     demoUrl: "https://gestiondebodegas.netlify.app/",

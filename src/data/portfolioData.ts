@@ -121,7 +121,7 @@ export const projects = [
     description: "Esta app distribuida en microoservicios que permite registrar clientes, productos y ventas, controlando stock y aplicando descuentos automáticamente.",
     image: "/ecomerce.png",
     tags: ["Node.js", "Express", "MySQL", "React", "JavaScript"],
-    demoUrl: "https://techmarkert.netlify.app/login",
+    demoUrl: "https://demo-ecomerce-five.vercel.app",
     githubUrl: "https://github.com/FelipePinaGit/E-commers.git"
   },
   {
@@ -130,7 +130,7 @@ export const projects = [
     description: "Esta aplicación permite gestionar la información de vuelos, reservas y pasajeros, con una interfaz intuitiva y funcionalidades avanzadas de búsqueda y filtrado.",
     image: "/skytract.png",
     tags: ["Node.js", "Express", "MongoDB", "JWT"],
-    demoUrl: "https://gestiondevueloskytract.netlify.app/",
+    demoUrl: " https://demo-gestion-skytract.vercel.app",
     githubUrl: "#"
   },
     {

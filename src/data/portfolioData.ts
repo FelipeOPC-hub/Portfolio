@@ -6,7 +6,7 @@ export const personalInfo = {
   email: "felipeomarpinaconesa@gmail.com",
   linkedin: "https://www.linkedin.com/in/felipe-omar-pi%C3%B1a-conesa-508b382b5/",
   github: "https://github.com/FelipePinaGit",
-  cvUrl: "public/Curriculum Vitae Felipe Piña.pdf"
+  cvUrl: "Curriculum Vitae Felipe Piña.pdf"
 };
 
 export const aboutMe = {
